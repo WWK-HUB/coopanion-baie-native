@@ -1,0 +1,1093 @@
+{
+  "errors": [],
+  "words": [
+    {
+      "word": "neutral",
+      "accepted": true,
+      "poses": [
+        "neutral",
+        "happy"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "happy",
+      "accepted": true,
+      "poses": [
+        "happy",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "wink",
+      "accepted": true,
+      "poses": [
+        "wink",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "love",
+      "accepted": true,
+      "poses": [
+        "love",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "shy",
+      "accepted": true,
+      "poses": [
+        "shy",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "surprised",
+      "accepted": true,
+      "poses": [
+        "surprised",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "angry",
+      "accepted": true,
+      "poses": [
+        "angry",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "sad",
+      "accepted": true,
+      "poses": [
+        "sad",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "sleepy",
+      "accepted": true,
+      "poses": [
+        "rest_12"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "thinking",
+      "accepted": true,
+      "poses": [
+        "thinking",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "smug",
+      "accepted": true,
+      "poses": [
+        "smug",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "pout",
+      "accepted": true,
+      "poses": [
+        "angry",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "worried",
+      "accepted": true,
+      "poses": [
+        "sad",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "determined",
+      "accepted": true,
+      "poses": [
+        "smug",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "flustered",
+      "accepted": true,
+      "poses": [
+        "shy",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "scared",
+      "accepted": true,
+      "poses": [
+        "surprised",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "excited",
+      "accepted": true,
+      "poses": [
+        "talk",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "cry",
+      "accepted": true,
+      "poses": [
+        "cry",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "confused",
+      "accepted": true,
+      "poses": [
+        "thinking",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "stand",
+      "accepted": true,
+      "poses": [
+        "neutral",
+        "happy"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "jump",
+      "accepted": true,
+      "poses": [
+        "jump_0",
+        "jump_1",
+        "jump_2",
+        "jump_3",
+        "jump_4",
+        "jump_5",
+        "jump_6",
+        "jump_7",
+        "jump_12",
+        "jump_18",
+        "jump_19",
+        "jump_20",
+        "jump_21",
+        "jump_22",
+        "jump_23",
+        "neutral",
+        "happy"
+      ],
+      "modes": [
+        "crouch",
+        "air",
+        "land",
+        "idle"
+      ]
+    },
+    {
+      "word": "hop",
+      "accepted": true,
+      "poses": [
+        "jump_0",
+        "jump_1",
+        "jump_2",
+        "jump_3",
+        "jump_4",
+        "jump_5",
+        "jump_6",
+        "jump_7",
+        "jump_12",
+        "jump_18",
+        "jump_19",
+        "jump_20",
+        "jump_21",
+        "jump_22",
+        "jump_23",
+        "neutral",
+        "happy"
+      ],
+      "modes": [
+        "crouch",
+        "air",
+        "land",
+        "idle"
+      ]
+    },
+    {
+      "word": "look",
+      "accepted": true,
+      "poses": [
+        "shake_0",
+        "shake_1",
+        "shake_2",
+        "shake_3",
+        "shake_4",
+        "shake_5",
+        "shake_6",
+        "shake_7",
+        "shake_8",
+        "shake_9",
+        "shake_10",
+        "shake_11",
+        "shake_12",
+        "shake_13",
+        "shake_14",
+        "shake_15",
+        "shake_16",
+        "shake_17",
+        "shake_18",
+        "shake_19",
+        "shake_20",
+        "shake_21",
+        "shake_22",
+        "shake_23",
+        "neutral"
+      ],
+      "modes": [
+        "look",
+        "idle"
+      ]
+    },
+    {
+      "word": "turn",
+      "accepted": true,
+      "poses": [
+        "side",
+        "neutral",
+        "happy"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "nod",
+      "accepted": true,
+      "poses": [
+        "nod_0",
+        "nod_1",
+        "nod_2",
+        "nod_3",
+        "nod_4",
+        "nod_5",
+        "nod_6",
+        "nod_7",
+        "nod_8",
+        "nod_9",
+        "nod_10",
+        "nod_11",
+        "nod_12",
+        "nod_13",
+        "nod_14",
+        "nod_15",
+        "nod_16",
+        "nod_17",
+        "nod_18",
+        "nod_19",
+        "nod_20",
+        "nod_21",
+        "nod_22",
+        "nod_23",
+        "neutral",
+        "happy"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "shake",
+      "accepted": true,
+      "poses": [
+        "shake_0",
+        "shake_1",
+        "shake_2",
+        "shake_3",
+        "shake_4",
+        "shake_5",
+        "shake_6",
+        "shake_7",
+        "shake_8",
+        "shake_9",
+        "shake_10",
+        "shake_11",
+        "shake_12",
+        "shake_13",
+        "shake_14",
+        "shake_15",
+        "shake_16",
+        "shake_17",
+        "shake_18",
+        "shake_19",
+        "shake_20",
+        "shake_21",
+        "shake_22",
+        "shake_23",
+        "neutral",
+        "happy"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "spin",
+      "accepted": true,
+      "poses": [
+        "neutral",
+        "side",
+        "back",
+        "happy"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "sit",
+      "accepted": true,
+      "poses": [
+        "rest_0",
+        "rest_1",
+        "rest_2",
+        "rest_3",
+        "rest_4",
+        "rest_5",
+        "sit"
+      ],
+      "modes": [
+        "sit"
+      ]
+    },
+    {
+      "word": "sleep",
+      "accepted": true,
+      "poses": [
+        "rest_0",
+        "rest_1",
+        "rest_2",
+        "rest_3",
+        "rest_4",
+        "rest_5",
+        "rest_6",
+        "rest_7",
+        "rest_8",
+        "rest_9",
+        "rest_10",
+        "rest_11",
+        "rest_12",
+        "rest_13"
+      ],
+      "modes": [
+        "sleep"
+      ]
+    },
+    {
+      "word": "dizzy",
+      "accepted": true,
+      "poses": [
+        "dizzy_0",
+        "dizzy_1",
+        "dizzy_2",
+        "dizzy_3",
+        "dizzy_4",
+        "dizzy_5",
+        "dizzy_6",
+        "dizzy_7",
+        "dizzy_8",
+        "dizzy_9",
+        "dizzy_10",
+        "dizzy_11",
+        "dizzy_12",
+        "dizzy_13",
+        "dizzy_14",
+        "dizzy_15",
+        "dizzy_16",
+        "dizzy_17",
+        "dizzy_18",
+        "dizzy_19",
+        "dizzy_20",
+        "dizzy_21",
+        "dizzy_22",
+        "dizzy_23",
+        "dizzy_24",
+        "dizzy_25",
+        "dizzy_26",
+        "dizzy_27",
+        "dizzy_28",
+        "dizzy_29",
+        "dizzy_30",
+        "dizzy_31",
+        "dizzy_32",
+        "dizzy_33",
+        "dizzy_34",
+        "dizzy_35",
+        "dizzy_36",
+        "dizzy_37",
+        "dizzy_38",
+        "dizzy_39",
+        "dizzy_40",
+        "dizzy_41",
+        "dizzy_42",
+        "dizzy_43",
+        "dizzy_44",
+        "dizzy_45",
+        "dizzy_46",
+        "dizzy_47",
+        "shake_0",
+        "shake_1",
+        "shake_2",
+        "shake_3",
+        "shake_4",
+        "shake_5",
+        "shake_6",
+        "shake_7",
+        "shake_8",
+        "shake_9",
+        "shake_10",
+        "shake_11",
+        "shake_12",
+        "shake_13",
+        "shake_14",
+        "shake_15",
+        "shake_16",
+        "shake_17",
+        "shake_18",
+        "shake_19",
+        "shake_20",
+        "shake_21",
+        "shake_22",
+        "shake_23",
+        "neutral"
+      ],
+      "modes": [
+        "dizzy",
+        "idle"
+      ]
+    },
+    {
+      "word": "walk",
+      "accepted": true,
+      "poses": [
+        "walk_0",
+        "walk_1",
+        "walk_2",
+        "walk_3",
+        "walk_4",
+        "walk_5",
+        "walk_6",
+        "walk_7",
+        "walk_8",
+        "walk_9",
+        "walk_10",
+        "walk_11",
+        "walk_12",
+        "walk_13",
+        "walk_14",
+        "walk_15",
+        "walk_16",
+        "walk_17",
+        "walk_18",
+        "walk_19",
+        "walk_20",
+        "walk_21",
+        "walk_22",
+        "walk_23"
+      ],
+      "modes": [
+        "walk"
+      ]
+    },
+    {
+      "word": "run",
+      "accepted": true,
+      "poses": [
+        "run_0",
+        "run_1",
+        "run_2",
+        "run_3",
+        "run_4",
+        "run_5",
+        "run_6",
+        "run_7",
+        "run_8",
+        "run_9",
+        "run_10",
+        "run_11",
+        "run_12",
+        "run_13",
+        "run_14",
+        "run_15",
+        "run_16",
+        "run_17",
+        "run_18",
+        "run_19",
+        "run_20",
+        "run_21",
+        "run_22",
+        "run_23",
+        "neutral",
+        "happy"
+      ],
+      "modes": [
+        "run",
+        "idle"
+      ]
+    },
+    {
+      "word": "wave",
+      "accepted": true,
+      "poses": [
+        "wave_0",
+        "wave_1",
+        "wave_2",
+        "wave_3",
+        "wave_4",
+        "wave_5",
+        "wave_6",
+        "wave_7",
+        "wave_8",
+        "wave_9",
+        "wave_10",
+        "wave_11",
+        "wave_12",
+        "wave_13",
+        "wave_14",
+        "wave_15",
+        "wave_16",
+        "wave_17",
+        "wave_18",
+        "wave_19",
+        "wave_20",
+        "wave_21",
+        "wave_22",
+        "wave_23",
+        "happy",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "bow",
+      "accepted": true,
+      "poses": [
+        "bow_0",
+        "bow_1",
+        "bow_2",
+        "bow_3",
+        "bow_4",
+        "bow_5",
+        "bow_6",
+        "bow_7",
+        "bow_8",
+        "bow_9",
+        "bow_10",
+        "bow_11",
+        "bow_12",
+        "bow_13",
+        "bow_14",
+        "bow_15",
+        "bow_16",
+        "bow_17",
+        "bow_18",
+        "bow_19",
+        "bow_20",
+        "bow_21",
+        "bow_22",
+        "bow_23",
+        "happy",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "shiver",
+      "accepted": true,
+      "poses": [
+        "sad",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "flap",
+      "accepted": true,
+      "poses": [
+        "jump_0",
+        "jump_1",
+        "jump_2",
+        "jump_3",
+        "jump_4",
+        "jump_5",
+        "jump_6",
+        "jump_7",
+        "wave_0",
+        "wave_1",
+        "wave_2",
+        "wave_3",
+        "wave_4",
+        "wave_5",
+        "wave_6",
+        "wave_7",
+        "wave_8",
+        "wave_9",
+        "wave_10",
+        "wave_11",
+        "wave_12",
+        "wave_13",
+        "jump_18",
+        "jump_19",
+        "jump_20",
+        "jump_21",
+        "jump_22",
+        "jump_23",
+        "happy",
+        "neutral"
+      ],
+      "modes": [
+        "crouch",
+        "air",
+        "land",
+        "idle"
+      ]
+    },
+    {
+      "word": "dance",
+      "accepted": true,
+      "poses": [
+        "dance_0",
+        "dance_1",
+        "dance_2",
+        "dance_3",
+        "dance_4",
+        "dance_5",
+        "dance_6",
+        "dance_7",
+        "dance_8",
+        "dance_9",
+        "dance_10",
+        "dance_11",
+        "dance_12",
+        "dance_13",
+        "dance_14",
+        "dance_15",
+        "dance_16",
+        "dance_17",
+        "dance_18",
+        "dance_19",
+        "dance_20",
+        "dance_21",
+        "dance_22",
+        "dance_23",
+        "happy"
+      ],
+      "modes": [
+        "dance",
+        "idle"
+      ]
+    },
+    {
+      "word": "hug",
+      "accepted": true,
+      "poses": [
+        "love",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "prone",
+      "accepted": true,
+      "poses": [
+        "rest_6",
+        "rest_7",
+        "rest_8",
+        "rest_9",
+        "rest_10",
+        "rest_11",
+        "rest_12",
+        "rest_13",
+        "rest_14",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    },
+    {
+      "word": "stretch",
+      "accepted": true,
+      "poses": [
+        "rest_18",
+        "rest_19",
+        "rest_20",
+        "rest_21",
+        "rest_22",
+        "rest_23",
+        "neutral"
+      ],
+      "modes": [
+        "idle"
+      ]
+    }
+  ],
+  "interactions": {
+    "poke": [
+      {
+        "kind": "poke"
+      }
+    ],
+    "pat": [
+      {
+        "kind": "pet",
+        "asleep": false
+      }
+    ],
+    "lifted": {
+      "layout": {
+        "x": 537,
+        "facing": 1,
+        "mode": "drag",
+        "busy": true,
+        "pressing": true,
+        "cursor": "grabbing",
+        "moving": true,
+        "box": {
+          "x": 470.98391530879627,
+          "y": 262.9449610169792,
+          "w": 169.27276640564088,
+          "h": 265.15449451758644
+        },
+        "hit": [
+          {
+            "x": 551.4142974871081,
+            "y": 358.4376936773211,
+            "r": 75.60000000000001
+          },
+          {
+            "x": 550.7021130277502,
+            "y": 462.65218403853123,
+            "r": 59.85
+          }
+        ],
+        "bubble": {
+          "x": 552.1818740710827,
+          "y": 246.11763184357235
+        },
+        "side": {
+          "x": 551.2718605952365,
+          "y": 379.2805917495631,
+          "reach": 109.2
+        }
+      },
+      "pose": "lift_10",
+      "events": [
+        {
+          "kind": "mode",
+          "mode": "drag"
+        },
+        {
+          "kind": "grab"
+        }
+      ]
+    },
+    "liftPoses": [
+      "lift_10",
+      "lift_11",
+      "lift_12",
+      "lift_13",
+      "lift_14",
+      "lift_15",
+      "lift_16",
+      "lift_17",
+      "lift_18",
+      "lift_19",
+      "lift_20",
+      "lift_21",
+      "lift_22",
+      "lift_23",
+      "lift_0",
+      "lift_1",
+      "lift_2",
+      "lift_3",
+      "lift_4",
+      "lift_5",
+      "lift_6",
+      "lift_7",
+      "lift_8",
+      "lift_9"
+    ],
+    "throwModes": [
+      "air",
+      "dizzy",
+      "idle"
+    ],
+    "throwPoses": [
+      "dizzy_0",
+      "dizzy_1",
+      "dizzy_2",
+      "dizzy_3",
+      "dizzy_4",
+      "dizzy_5",
+      "dizzy_6",
+      "dizzy_7",
+      "dizzy_8",
+      "dizzy_9",
+      "dizzy_10",
+      "dizzy_11",
+      "dizzy_12",
+      "dizzy_13",
+      "dizzy_14",
+      "dizzy_15",
+      "dizzy_16",
+      "dizzy_17",
+      "dizzy_18",
+      "dizzy_19",
+      "dizzy_20",
+      "dizzy_21",
+      "dizzy_22",
+      "dizzy_23",
+      "dizzy_24",
+      "dizzy_25",
+      "dizzy_26",
+      "dizzy_27",
+      "dizzy_28",
+      "dizzy_29",
+      "dizzy_30",
+      "dizzy_31",
+      "dizzy_32",
+      "dizzy_33",
+      "dizzy_34",
+      "dizzy_35",
+      "dizzy_36",
+      "dizzy_37",
+      "dizzy_38",
+      "dizzy_39",
+      "dizzy_40",
+      "dizzy_41",
+      "dizzy_42",
+      "dizzy_43",
+      "dizzy_44",
+      "dizzy_45",
+      "dizzy_46",
+      "dizzy_47",
+      "shake_0",
+      "shake_1",
+      "shake_2",
+      "shake_3",
+      "shake_4",
+      "shake_5",
+      "shake_6",
+      "shake_7",
+      "shake_8",
+      "shake_9",
+      "shake_10",
+      "shake_11",
+      "shake_12",
+      "shake_13",
+      "shake_14",
+      "shake_15",
+      "shake_16",
+      "shake_17",
+      "shake_18",
+      "shake_19",
+      "shake_20",
+      "shake_21",
+      "shake_22",
+      "shake_23",
+      "neutral",
+      "side",
+      "happy"
+    ],
+    "thrown": [
+      {
+        "kind": "mode",
+        "mode": "drag"
+      },
+      {
+        "kind": "grab"
+      },
+      {
+        "kind": "mode",
+        "mode": "air"
+      },
+      {
+        "kind": "throw",
+        "x": 567
+      },
+      {
+        "kind": "mode",
+        "mode": "dizzy"
+      },
+      {
+        "kind": "crash"
+      },
+      {
+        "kind": "mode",
+        "mode": "idle"
+      }
+    ],
+    "wake": {
+      "layout": {
+        "x": 537,
+        "facing": 1,
+        "mode": "wake",
+        "busy": false,
+        "pressing": false,
+        "cursor": "",
+        "moving": false,
+        "box": {
+          "x": 454.3051029347334,
+          "y": 281.344208223939,
+          "w": 193.54083371747123,
+          "h": 255.81440537116572
+        },
+        "hit": [
+          {
+            "x": 549.0692460324384,
+            "y": 374.8935170733632,
+            "r": 75.60000000000001
+          },
+          {
+            "x": 541.6292998480585,
+            "y": 470.5071024390982,
+            "r": 59.85
+          }
+        ],
+        "bubble": {
+          "x": 545.4121740631458,
+          "y": 421.89194344084393
+        },
+        "side": {
+          "x": 545.4121740631458,
+          "y": 421.89194344084393,
+          "reach": 109.2
+        }
+      },
+      "pose": "jump_0",
+      "events": [
+        {
+          "kind": "mode",
+          "mode": "sleep"
+        },
+        {
+          "kind": "mode",
+          "mode": "wake"
+        },
+        {
+          "kind": "poke",
+          "woke": true
+        }
+      ]
+    },
+    "before": {
+      "x": 537,
+      "facing": 1,
+      "mode": "sleep",
+      "busy": false,
+      "pressing": false,
+      "cursor": "",
+      "moving": false,
+      "box": {
+        "x": 440.6402017591991,
+        "y": 410.8255014726667,
+        "w": 195.861763815541,
+        "h": 119.1744985273333
+      },
+      "hit": [
+        {
+          "x": 507.6731048832345,
+          "y": 483.5957704849322,
+          "r": 50.400000000000006
+        },
+        {
+          "x": 580.9903426751482,
+          "y": 499.4153941832507,
+          "r": 45.15
+        }
+      ],
+      "bubble": {
+        "x": 537,
+        "y": 425.5890950521415
+      },
+      "side": {
+        "x": 537,
+        "y": 425.5890950521415,
+        "reach": 109.2
+      }
+    }
+  }
+}

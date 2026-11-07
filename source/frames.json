@@ -1,0 +1,80 @@
+{
+  "size": 384,
+  "static": [
+    "neutral",
+    "talk",
+    "happy",
+    "wave_seed",
+    "smug",
+    "sit",
+    "side",
+    "back",
+    "love",
+    "shy",
+    "surprised",
+    "angry",
+    "sad",
+    "cry",
+    "thinking",
+    "wink"
+  ],
+  "sequences": {
+    "walk": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "run": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "jump": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "dance": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "lift": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "wave": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "nod": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "shake": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "bow": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "dizzy": {
+      "paintedKeyframes": 16,
+      "playbackFrames": 48,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    },
+    "rest": {
+      "paintedKeyframes": 8,
+      "playbackFrames": 24,
+      "method": "bidirectional dense optical-flow; 2 inbetweens per keyframe interval"
+    }
+  },
+  "paintedKeyframes": 112,
+  "playbackFrames": 304
+}
